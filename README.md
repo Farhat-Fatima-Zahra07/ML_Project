@@ -45,7 +45,7 @@ Le dataset `heart.csv` contient des informations médicales comme :
 
 ###  Modèles de classification
 
-#### 🌳 Arbres de décision et ensembles
+####  Arbres de décision et ensembles
 - Decision Tree
 - Random Forest (Bagging)
 - AdaBoost (Boosting)
